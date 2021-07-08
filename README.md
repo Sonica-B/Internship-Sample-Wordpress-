@@ -1,2 +1,4 @@
-# Flavalon_Internship
-Website Designs For 7 Verticals of the Company
+# WorkSamples (Wordpress)
+Website Designs For differents brands of the Company.
+
+©2021 Shreya Boyane. All Rights Reserved.
